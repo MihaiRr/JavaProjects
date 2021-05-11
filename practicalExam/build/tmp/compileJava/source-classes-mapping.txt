@@ -1,0 +1,32 @@
+repository/Repository.java
+ repository.Repository
+repository/RepositoryException.java
+ repository.RepositoryException
+domain/Identifiable.java
+ domain.Identifiable
+repository/AbstractRepository.java
+ repository.AbstractRepository
+service/ServiceException.java
+ service.ServiceException
+domain/CookingClass.java
+ domain.CookingClass
+domain/Subscription.java
+ domain.Subscription
+repository/CookingClassRepository.java
+ repository.CookingClassRepository
+repository/SubscriptionRepository.java
+ repository.SubscriptionRepository
+service/Service.java
+ service.Service
+repository/CookingClassRepositoryInMemory.java
+ repository.CookingClassRepositoryInMemory
+controller/Controller.java
+ controller.Controller
+repository/CookingClassRepositoryInFile.java
+ repository.CookingClassRepositoryInFile
+repository/SubscriptionRepositoryInFile.java
+ repository.SubscriptionRepositoryInFile
+repository/SubscriptionRepositoryInMemory.java
+ repository.SubscriptionRepositoryInMemory
+MainFX.java
+ MainFX
